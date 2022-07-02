@@ -12,5 +12,6 @@ public class PositiveNegativeNumber {
             System.out.println("Number is a positive number.");
         else
             System.out.println("Number is a negative number.");
+        sc.close();
     }
 }
