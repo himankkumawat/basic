@@ -1,4 +1,4 @@
-package com.himank.basic2;
+package com.himank.specialnumber;
 
 import java.util.Scanner;
 
