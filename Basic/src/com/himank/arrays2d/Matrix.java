@@ -24,8 +24,9 @@ public class Matrix {
         System.out.println("Displaying matrix element.");
         for (int[] row : arr) {
             for (int j = 0; j < arr[0].length; j++) {
-                System.out.println(row[j]);
+                System.out.print(row[j] + "    ");
             }
+            System.out.println();
         }
     }
 }
